@@ -1,0 +1,675 @@
+{
+    "Words": [
+        {
+            "word": "Placate",
+            "definition": "To soothe or pacify",
+            "exampleSentence": "The burglar tried to placate the snarling dog by referring to it as a 'Nice Doggy' and offering it a treat.",
+            "hintPhrase": "Nice Doggy",
+            "pronunciation": "ˈplākāt",
+            "synonyms": [
+                "appease",
+                "conciliate",
+                "mollify"
+            ]
+        },
+        {
+            "word": "Pungent",
+            "definition": "Sharp and irritating to the senses",
+            "exampleSentence": "The smoke from the burning tires was extremely pungent.",
+            "hintPhrase": "Burning tires",
+            "pronunciation": "puhn-juh nt",
+            "synonyms": [
+                "piquant",
+                "poignant",
+                "acrid",
+                "caustic",
+                "stinging"
+            ]
+        },
+        {
+            "word": "Dilatory",
+            "definition": "Intended to delay",
+            "exampleSentence": "Dilator's massive shield was built for diltory tactics during escapes.",
+            "hintPhrase": "Dilator",
+            "pronunciation": "dil-uh-tawr-ee",
+            "synonyms": [
+                "dragging",
+                "flagging",
+                "laggard",
+                "lagging",
+                "slow",
+                "slow-footed",
+                "slow-going",
+                "slow-paced",
+                "tardy"
+            ]
+        },
+        {
+            "word": "Abscond",
+            "definition": "To depart clandestinely; to steal off and hide",
+            "exampleSentence": "The rouge in the party absconded with the loot while the party was fighting the boss monster.",
+            "hintPhrase": "Rouge in the party",
+            "pronunciation": "ab-skond",
+            "synonyms": [
+                "clear out",
+                "flee",
+                "lam",
+                "escape"
+            ]
+        },
+        {
+            "word": "Aberrant",
+            "definition": "Deviating from the norm",
+            "exampleSentence": "Smite's Abberrant Camera View sets it apart from other MOBA titles.",
+            "hintPhrase": "Smite's Camera",
+            "pronunciation": "uh-ber-uh nt",
+            "synonyms": [
+                "divergent",
+                "unusual"
+            ]
+        },
+        {
+            "word": "Alacrity",
+            "definition": "Eager and enthusiastic willingness.",
+            "exampleSentence": "The bloodthirsty warrior charged into battle with grand alacrity.",
+            "hintPhrase": "Bloodthirsty Warrior",
+            "pronunciation": "uh-lak-ri-tee",
+            "synonyms": [
+                "Eagerness",
+                "Keanness",
+                "Zeal",
+                "Ferver"
+            ]
+        },
+        {
+            "word": "Anomaly",
+            "definition": "Deviation from the normal order, form, or rule; abnormality",
+            "exampleSentence": "Snow during a hurricane is considered an weather anomaly.",
+            "hintPhrase": "Snowy Hurricane",
+            "pronunciation": "uh-nom-uh-lee",
+            "synonyms": [
+                "abnormality",
+                "exception",
+                "peculiarity"
+            ]
+        },
+        {
+            "word": "Approbation",
+            "definition": "An expression of approval or praise",
+            "exampleSentence": "The highest approbation British royalty can give a person is knighthood.",
+            "hintPhrase": "Knighthood",
+            "pronunciation": "ap-ruh-bey-shuh n",
+            "synonyms": [
+                "commendation",
+                "praise"
+            ]
+        },
+        {
+            "word": "Arduous",
+            "definition": "Strenuous, taxing; requiring signifigant effort",
+            "exampleSentence": "Taking the GRE's is an arduous undertaking.",
+            "hintPhrase": "GRE's",
+            "pronunciation": "ahr-joo-uh s",
+            "synonyms": [
+                "taxing",
+                "difficult",
+                "hard",
+                "heavy",
+                "laborious",
+                "burdensome",
+                "strenuous",
+                "vigorous"
+            ]
+        },
+        {
+            "word": "Assuage",
+            "definition": "To ease or lessen; to appease or pacify",
+            "exampleSentence": "The mother coos to her baby to assuage his tantrum.",
+            "hintPhrase": "baby tantrum",
+            "pronunciation": "uh-sweyj",
+            "synonyms": [
+                "relieve",
+                "ease",
+                "alleviate",
+                "soothe"
+            ]
+        },
+        {
+            "word": "Audacious",
+            "definition": "Daring and fearless; recklessly bold",
+            "exampleSentence": "The audacious mouse was found in a mouse trap in the kitchen.",
+            "hintPhrase": "Kitchen Mouse",
+            "pronunciation": "aw-dey-shuh s",
+            "synonyms": [
+                "bold",
+                "daring",
+                "fearless",
+                "intrepid",
+                "brave"
+            ]
+        },
+        {
+            "word": "Austere",
+            "definition": "Without adornment; bare; severley simple; ascetic",
+            "exampleSentence": "A game prototype is usually aesthetically austere.",
+            "hintPhrase": "Prototype Aesthetics",
+            "pronunciation": "aw-steer",
+            "synonyms": [
+                "plain",
+                "simple",
+                "basic",
+                "modest"
+            ]
+        },
+        {
+            "word": "Axiomatic",
+            "definition": "Taken as a given; possessing self-evident truth",
+            "exampleSentence": "It's axeomatic that the AXE-o-Matic will cut the time chopping down trees in half!",
+            "hintPhrase": "AXE-o-Matic",
+            "pronunciation": "ak-see-uh-mat-ik",
+            "synonyms": [
+                "Certain",
+                "Obvious",
+                "Self-Evident"
+            ]
+        },
+        {
+            "word": "Canonical",
+            "definition": "Following or in agreement with accepted, traditional standards",
+            "exampleSentence": "Korrasami fans became estatic when their O.T.P. became a canonical relationship.",
+            "hintPhrase": "Korrasami",
+            "pronunciation": "kuh-non-i-kuh l",
+            "synonyms": [
+                "official",
+                "approved",
+                "authorized"
+            ]
+        },
+        {
+            "word": "Capricious",
+            "definition": "Inclined to change one's mind impulsively; erratic, unpredictable",
+            "exampleSentence": "Mugen's capricious attitude leads to both friend and foe getting caught off guard.",
+            "hintPhrase": "Mugen",
+            "pronunciation": "kuh-prish-uh s",
+            "synonyms": [
+                "unpredictable",
+                "variable",
+                "volatile"
+            ]
+        },
+        {
+            "word": "Censure",
+            "definition": "To criticize severely; to officially rebuke",
+            "exampleSentence": "Justice Scalia's displayed his censure of the liberal Justices during the Gay Rights case.",
+            "hintPhrase": "Scalia on liberals",
+            "pronunciation": "sen-sher",
+            "synonyms": [
+                "condemnation",
+                "reproach",
+                "reprehension",
+                "reprimand"
+            ]
+        },
+        {
+            "word": "Chicanery",
+            "definition": "Trickery or subterfuge",
+            "exampleSentence": "Usually, it's Joseph Joestar's chicanery that helps him defeat stronger opponents.",
+            "hintPhrase": "Joseph Joestar",
+            "pronunciation": "shi-key-nuh-ree",
+            "synonyms": [
+                "Fraud",
+                "Deception",
+                "Knavery"
+            ]
+        },
+        {
+            "word": "Connoisseur",
+            "definition": "An informed and astute judge in matters of taste; expert",
+            "exampleSentence": "TotalBiscuit is considered a connoisseur of video games",
+            "hintPhrase": "TotalBiscuit",
+            "pronunciation": "kon-uh-sur",
+            "synonyms": [
+                "Critic",
+                "Aesthete"
+            ]
+        },
+        {
+            "word": "Convoluted",
+            "definition": "Complex or complicated",
+            "exampleSentence": "The game system of the Making History series can come across as convoluted, as the game simulates all functions of every nation.",
+            "hintPhrase": "Making History",
+            "pronunciation": "kon-vuh-loo-tid",
+            "synonyms": [
+                "intricate",
+                "labyrinthine",
+                "tangled"
+            ]
+        },
+        {
+            "word": "Disabuse",
+            "definition": "To undeceive; to set right",
+            "exampleSentence": "It's up to parents to decide when they will disabuse their children of the existance of the tooth fairy.",
+            "hintPhrase": "Tooth Fairy",
+            "pronunciation": "dis-uh-byooz",
+            "synonyms": [
+                "debunk",
+                "enlighten",
+                "disillusion"
+            ]
+        },
+        {
+            "word": "Discordant",
+            "definition": "Conflicting; dissonant or harsh in sound",
+            "exampleSentence": "The middle school band instructor backed out of doing Lord of the Rings due to the discordent ensemble.",
+            "hintPhrase": "Middle School LOTR.",
+            "pronunciation": "dis-kawr-dnt",
+            "synonyms": [
+                "Dissonant",
+                "Divergent",
+                "Clashing"
+            ]
+        },
+        {
+            "word": "Disparate",
+            "definition": "Fundamentally distinct or dissimilar",
+            "exampleSentence": "Artemis's controls and goals are disparate for each player.",
+            "hintPhrase": "Artemis",
+            "pronunciation": "dis-per-it",
+            "synonyms": [
+                "separate",
+                "divergent",
+                "unlike"
+            ]
+        },
+        {
+            "word": "Effrontery",
+            "definition": "Extreme boldness; presumptuousness",
+            "exampleSentence": "Given current events, those who say \"All Lives Matter\" display their effrontery more than their support.",
+            "hintPhrase": "All Lives Matter",
+            "pronunciation": "ih-fruhn-tuh-ree",
+            "synonyms": [
+                "presumption",
+                "assumption",
+                "presumptuousness"
+            ]
+        },
+        {
+            "word": "Eloquent",
+            "definition": "Well-spoken, expressive, articulate",
+            "exampleSentence": "The eloquent instructor received high reviews due to his clear instructions.",
+            "hintPhrase": "Good Instructor",
+            "pronunciation": "el-uh-kwuh nt",
+            "synonyms": [
+                "expressive",
+                "poignant",
+                "articulate"
+            ]
+        },
+        {
+            "word": "Enervate",
+            "definition": "To weaken; to reduce in vitality",
+            "exampleSentence": "Working at a dead-end job really enervated his soul.",
+            "hintPhrase": "Dead-end Job",
+            "pronunciation": "en-er-veyt",
+            "synonyms": [
+                "Fatigue",
+                "Jade",
+                "Weaken"
+            ]
+        },
+        {
+            "word": "Ennui",
+            "definition": "Dissatisfaction and restlessness resulting from bordom or apathy.",
+            "exampleSentence": "Now that he can beat everyone with one punch, Saitama's ennui was clear to see in fights.",
+            "hintPhrase": "Fighting as Saitama",
+            "pronunciation": "ahn-wee",
+            "synonyms": [
+                "listlessness",
+                "tedium"
+            ]
+        },
+        {
+            "word": "Equivocate",
+            "definition": "To use ambiguous language with a deceptive intent",
+            "exampleSentence": "Most candidates make a lot of promises with equivocal wording on the campaign trail.",
+            "hintPhrase": "Campaign Promises",
+            "pronunciation": "ih-kwiv-uh-keyt",
+            "synonyms": [
+                "Misinform",
+                "Mislead"
+            ]
+        },
+        {
+            "word": "Erudite",
+            "definition": "Very Learned; scholarly",
+            "exampleSentence": "The research Stephen Hawking has done throughout his life gives him an Erudite aura.",
+            "hintPhrase": "Stephen Hawking",
+            "pronunciation": "er-yoo-dahyt",
+            "synonyms": [
+                "knowledgeable",
+                "literate",
+                "scholarly"
+            ]
+        },
+        {
+            "word": "Exculpate",
+            "definition": "Exonerate, to clear of blame",
+            "exampleSentence": "The jury in LA exculpated O.J. Simpson of his crimes",
+            "hintPhrase": "OJ Simpson",
+            "pronunciation": "ek-skuhl-peyt",
+            "synonyms": [
+                "acquit",
+                "exonerate",
+                "discharge"
+            ]
+        },
+        {
+            "word": "Exigent",
+            "definition": "Urgent, pressing; requiring immediate action or attention",
+            "exampleSentence": "The exigent nature of a child drowning can lead to people to dive in while wearing clothes.",
+            "hintPhrase": "Why Wet Clothes?",
+            "pronunciation": "ek-si-juh nt",
+            "synonyms": [
+                "urgent",
+                "pressing"
+            ]
+        },
+        {
+            "word": "Extemporaneous",
+            "definition": "Improvised; done without preperation",
+            "exampleSentence": "Jenny Matrix's extemporaneous speech on her mother was the result of writing the opening line the night before.",
+            "hintPhrase": "Mom of the Year Award",
+            "pronunciation": "ik-stem-puh-rey-nee-uh s",
+            "synonyms": [
+                "Improvised",
+                "Impromptu"
+            ]
+        },
+        {
+            "word": "Filibuster",
+            "definition": "Intentional obstruction, especially using prolonged speechmaking to delay legislative action.",
+            "exampleSentence": "Wendy Davis wore sneakers when performing her filibuster of the Texas abortion regulations.",
+            "hintPhrase": "Wendy Davis",
+            "pronunciation": "fil-uh-buhs-ter",
+            "synonyms": [
+                "delay",
+                "holdup"
+            ]
+        },
+        {
+            "word": "Fulminate",
+            "definition": "To loudly attack or denounce.",
+            "exampleSentence": "Seeing the boys making fun of the guy caused Dad to fulminate.",
+            "hintPhrase": "Dad to Magic",
+            "pronunciation": "fuhl-muh-neyt",
+            "synonyms": [
+                "castigate",
+                "explode",
+                "vilify"
+            ]
+        },
+        {
+            "word": "Ingenuous",
+            "definition": "artless; frank and candid; lacking in sophistication",
+            "exampleSentence": "My mother cried when I asked for the address in heaven when I was an ingenuous child.",
+            "hintPhrase": "Mailbox in heaven",
+            "pronunciation": "in-jen-yoo-uh s",
+            "synonyms": [
+                "Frank",
+                "Straightforward",
+                "Open",
+                "Innocent"
+            ]
+        },
+        {
+            "word": "Inured",
+            "definition": "Accustomed to accepting something undesireable.",
+            "exampleSentence": "Citizens of war-torn counties have become inured by all the violence surrounding them.",
+            "hintPhrase": "War-torn citizens",
+            "pronunciation": "in-yoo r",
+            "synonyms": [
+                "harden",
+                "toughen",
+                "acclimate"
+            ]
+        },
+        {
+            "word": "Irascible",
+            "definition": "Easily angered; prone to temperamental outbursts",
+            "exampleSentence": "Metal bat's irascible personality makes him a hero you want to avoid.",
+            "hintPhrase": "Metal bat",
+            "pronunciation": "ih-ras-uh-buh l",
+            "synonyms": [
+                "Cranky",
+                "Feisty",
+                "Grouchy",
+                "Surly",
+                "Testy"
+            ]
+        },
+        {
+            "word": "Laud",
+            "definition": "To praise highly",
+            "exampleSentence": "Costco's CEO should be lauded for the low salary ratio between him and his employees.",
+            "hintPhrase": "Costco's CEO",
+            "pronunciation": "lawd",
+            "synonyms": [
+                "admire",
+                "adore",
+                "revere",
+                "honor",
+                "celebrate"
+            ]
+        },
+        {
+            "word": "Lucid",
+            "definition": "Clear; easily understood",
+            "exampleSentence": "A good teacher is lucid while explaining subjects to their students.",
+            "hintPhrase": "Good teacher",
+            "pronunciation": "loo-sid",
+            "synonyms": [
+                "Plain",
+                "Understandable",
+                "Evident",
+                "Obvious"
+            ]
+        },
+        {
+            "word": "Magnanimity",
+            "definition": "The quality of being generously noble in mind and heart, especially in forgiving.",
+            "exampleSentence": "Pope John Paul II's magnanimity was displayed when he visited his would-be assassin in jail.",
+            "hintPhrase": "Pope's assassin",
+            "pronunciation": "mag-nuh-nim-i-tee",
+            "synonyms": [
+                "Chivalry",
+                "Philanthropy"
+            ]
+        },
+        {
+            "word": "Martial",
+            "definition": "Associated with war and the armed forces.",
+            "exampleSentence": "During times of war, martial law is declared and the military dictatates the rules.",
+            "hintPhrase": "Like the law",
+            "pronunciation": "mahr-shuh l",
+            "synonyms": [
+                "Warlike",
+                "Military"
+            ]
+        },
+        {
+            "word": "Mundane",
+            "definition": "Of the world; typically of or concerned with the ordinary",
+            "exampleSentence": "Bilbo Baggins wanted to live a mundane life before Gandalf recruited him for his adventure.",
+            "hintPhrase": "Bilbo Baggins",
+            "pronunciation": "muhn-deyn",
+            "synonyms": [
+                "Banal",
+                "Humdrum",
+                "Prosaic"
+            ]
+        },
+        {
+            "word": "Nascent",
+            "definition": "Coming into being; in early development stages",
+            "exampleSentence": "Game protoypes are nascent representations of experiences to come.",
+            "hintPhrase": "Prototypes",
+            "pronunciation": "nas-uh nt",
+            "synonyms": [
+                "Emergent",
+                "Promising",
+                "Growing"
+            ]
+        },
+        {
+            "word": "Nebulous",
+            "definition": "Vauge; cloudy; lacking clearly defined form",
+            "exampleSentence": "When not looking like a human, angels take a nebulous form.",
+            "hintPhrase": "Angel Form (default)",
+            "pronunciation": "neb-yuh-luh s",
+            "synonyms": [
+                "Vauge",
+                "Murky",
+                "Hazy",
+                "Ambiguous"
+            ]
+        },
+        {
+            "word": "Neologism",
+            "definition": "A new word, expression, or usage; the creation or use of new words or senses.",
+            "exampleSentence": "Jim Sterling created a neologism when he wrote the word Chungus.",
+            "hintPhrase": "Chungus",
+            "pronunciation": "nee-ol-uh-jiz-uh m",
+            "synonyms": [
+                "Coinage",
+                "Neology",
+                "Slang"
+            ]
+        },
+        {
+            "word": "Noxious",
+            "definition": "Harmful, injurious",
+            "exampleSentence": "The noxious fumes caused me to hack a lung - literally.",
+            "hintPhrase": "Fumes.",
+            "pronunciation": "nok-shuh s",
+            "synonyms": [
+                "harmful",
+                "baneful",
+                "toxic",
+                "deadly",
+                "pestilent"
+            ]
+        },
+        {
+            "word": "Obtuse",
+            "definition": "Lacking sharpness of intellect; not clear or precise in thought or expression.",
+            "exampleSentence": "Brain had to make sure his orders to Pinky worded well or else his obtuse partner would mess them up.",
+            "hintPhrase": "Pinky",
+            "pronunciation": "uh b-toos",
+            "synonyms": [
+                "Dense",
+                "Dumb",
+                "Opaque",
+                "Slow on uptake",
+                "Stolid"
+            ]
+        },
+        {
+            "word": "Obviate",
+            "definition": "To anticipate to make unnecessary",
+            "exampleSentence": "The push for cleaner energy obviate the coal mining industry.",
+            "hintPhrase": "Coal Mining",
+            "pronunciation": "ob-vee-eyt",
+            "synonyms": [
+                "Preclude",
+                "Avert",
+                "Anticipate"
+            ]
+        },
+        {
+            "word": "Onerous",
+            "definition": "Troubling; burdensome",
+            "exampleSentence": "Having a full-time job while getting a masters leads to an onerous lifestyle.",
+            "hintPhrase": "Full-Time Life",
+            "pronunciation": "on-er-uh s",
+            "synonyms": [
+                "arduous",
+                "burdensome",
+                "demanding",
+                "grueling",
+                "laborious",
+                "taxing"
+            ]
+        },
+        {
+            "word": "Paean",
+            "definition": "A song or hymn of praise and thanksgiving.",
+            "exampleSentence": "Choirs gather together on Sundays to perform paeans to God and Jesus.",
+            "hintPhrase": "Church Choirs",
+            "pronunciation": "pee-uh n",
+            "synonyms": [
+                "Anthem",
+                "Hymn"
+            ]
+        },
+        {
+            "word": "Parody",
+            "definition": "A humorous imitation intended for ridicule or comic effect, especially in literature and art.",
+            "exampleSentence": "Parody is covered under fair use, as it provides critique for an entity.",
+            "hintPhrase": "Space Balls",
+            "pronunciation": "par-uh-dee",
+            "synonyms": [
+                "Burlesque",
+                "Caricature",
+                "Satire"
+            ]
+        },
+        {
+            "word": "Perennial",
+            "definition": "Recurrent through the year or many years; happening repeatedly.",
+            "exampleSentence": "Gilligan perennial screw-ups kept the crew on the island for many years.",
+            "hintPhrase": "Gilligan's screw-ups",
+            "pronunciation": "puh-ren-ee-uh l",
+            "synonyms": [
+                "Eternal",
+                "Persistent",
+                "Chronic"
+            ]
+        },
+        {
+            "word": "Perfidy",
+            "definition": "Intentional breach of faith; treachery.",
+            "exampleSentence": "Stocking's perfidy at the end of the series came to a surprise to both the characters and the audience.",
+            "hintPhrase": "Stocking",
+            "pronunciation": "pur-fi-dee",
+            "synonyms": [
+                "Betrayal",
+                "Scam",
+                "Treason"
+            ]
+        },
+        {
+            "word": "Perfunctory",
+            "definition": "Cursory; done without care or interest.",
+            "exampleSentence": "Acadamy Award losers tend to give perfuctory applause towards the oscar winners.",
+            "hintPhrase": "Oscar losers",
+            "pronunciation": "per-fuhngk-tuh-ree",
+            "synonyms": [
+                "negligent",
+                "uninterested",
+                "thoughtless"
+            ]
+        },
+        {
+            "word": "Perspicacious",
+            "definition": "Acutely perceptive; having keen discernment.",
+            "exampleSentence": "Monk's perspicacious crime-solving skills can be attributed to his OCD.",
+            "hintPhrase": "Monk",
+            "pronunciation": "pur-spi-key-shuh s",
+            "synonyms": [
+                "Keen",
+                "Clever",
+                "Aware"
+            ]
+        }
+    ]
+}

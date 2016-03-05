@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GREFlashCards.CSharp", "GREFlashCards.CSharp.csproj", "{58C481F4-E301-750B-2678-93B18F6663C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GREFlashCards.CSharp.Editor", "GREFlashCards.CSharp.Editor.csproj", "{00237B56-0184-6D00-61E6-4330143968D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C481F4-E301-750B-2678-93B18F6663C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C481F4-E301-750B-2678-93B18F6663C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C481F4-E301-750B-2678-93B18F6663C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C481F4-E301-750B-2678-93B18F6663C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00237B56-0184-6D00-61E6-4330143968D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00237B56-0184-6D00-61E6-4330143968D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00237B56-0184-6D00-61E6-4330143968D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00237B56-0184-6D00-61E6-4330143968D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
