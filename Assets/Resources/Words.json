@@ -670,6 +670,54 @@
                 "Clever",
                 "Aware"
             ]
+        },
+        {
+            "word": "Prattle",
+            "definition": "To babble meaninglessly; having keen discernment",
+            "exampleSentence": "When DP gets a thought in his head, he tends to prattle endlessly.",
+            "hintPhrase": "DP.",
+            "pronunciation": "prat-l",
+            "synonyms": [
+                "Gab",
+                "Gabble",
+                "Blab"
+            ]
+        },
+        {
+            "word": "Precipitate (adj)",
+            "definition": "Acting with excessive haste or impulse",
+            "exampleSentence": "While the first hyena stopped, the momentem of the other two caused him precipitate dive into thorns.",
+            "hintPhrase": "Hyena Thorns",
+            "pronunciation": "pri-sip-i-teyt",
+            "synonyms": [
+                "Hasty",
+                "Rushing"
+            ]
+        },
+        {
+            "word": "Precipitate (verb)",
+            "definition": "To cause or happen before anticipated or required.",
+            "exampleSentence": "The Rodney King verdict precipitated the LA Riots.",
+            "hintPhrase": "LA Riots",
+            "pronunciation": "pri-sip-i-teyt",
+            "synonyms": [
+                "Accelerate",
+                "Hasten",
+                "Expedite",
+                "Trigger"
+            ]
+        },
+        {
+            "word": "Predilection",
+            "definition": "A disposition in favor of something; preference",
+            "exampleSentence": "The oscars appear to have a predilection of nominating white actors rather than other races.",
+            "hintPhrase": "OscarsSoWhite",
+            "pronunciation": "pred-l-ek-shuh",
+            "synonyms": [
+                "Orientation",
+                "Preference",
+                "Taste"
+            ]
         }
     ]
 }
